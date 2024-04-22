@@ -1,11 +1,18 @@
-# Cybersecurity-Books
-Here you will get awesome collection of mostly all well-known and usefull cybersecurity books from beginner level to expert for all cybersecurity positions 
+# Cybersecurity-Books & Booklets
+Here you will get awesome collection of mostly all well-known and usefull cybersecurity books from beginner level to expert for all cybersecurity positions.
+An addition of very useful booklets and study guides has been included. This play a very important role while trying effectively to understand certain specific concepts or while doing revision.
 
 
+## Booklets
+
+1) [Kubernetes cheatsheet.pdf](https://github.com/johncybersec1/Cybersecurity-Books-Booklets/files/15063963/Kubernetes.cheatsheet.pdf)
+
+2) [Docker Study Guide.pdf](https://github.com/johncybersec1/Cybersecurity-Books-Booklets/files/15063972/Docker.Study.Guide.pdf)
+
+3) [AWS_Command_Line_Interface.pdf](https://github.com/johncybersec1/Cybersecurity-Books-Booklets/files/15063982/AWS_Command_Line_Interface.pdf)
 
 
-
-
+## Books
 
 1) [Cyber_Sec_Roadmap_ (1).pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089100/Cyber_Sec_Roadmap_.1.pdf)
 
@@ -317,6 +324,8 @@ Here you will get awesome collection of mostly all well-known and usefull cybers
 83) [002Foot Printing and Reconnaissance LAB.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089906/002Foot.Printing.and.Reconnaissance.LAB.pdf)
 
 84) [001Introduction To Ethical Hacking.pdf](https://github.com/zealraj/Cybersecurity-Books/files/9089909/001Introduction.To.Ethical.Hacking.pdf)
+
+85) [Black Hat Python, 2nd Edition by Justin Seitz  Tim Arnold [Justin Seitz].pdf](https://github.com/johncybersec1/Cybersecurity-Books-Booklets/files/15064009/Black.Hat.Python.2nd.Edition.by.Justin.Seitz.Tim.Arnold.Justin.Seitz.pdf)
 
 
 
